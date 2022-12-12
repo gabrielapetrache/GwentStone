@@ -1,5 +1,4 @@
-**Petrache Gabriela,**
-**322CA**
+**Petrache Gabriela**
 
 ## GwentStone
 
@@ -27,6 +26,3 @@ deck, placed in their hand, or used on the game table
 * Cards use different types of methods and classes to apply their abilities, depending on the input from each command and possible errors
 * To avoid duplicated code as much as possible I have created some helper Output Printer functions, along with some strings, which can be found in the utils package
 * Doing this assignment, I have learnt a lot about working with classes and instances in Java, along with OOP principles
-
-
-[Assignment can be found here](https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/tema)
